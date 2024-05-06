@@ -10,7 +10,10 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class AddressResponseDto {
+public class UserResponseDto {
     @JsonProperty("data")
-    AddressResponseDtoData addressData;
+    private UserDataResponseDto dataResponseDto;
+
+    @JsonProperty("userAddress")
+    private AddressResponseDtoData addressResponse;
 }

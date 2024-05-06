@@ -1,6 +1,5 @@
 package com.clearsolutions.dto.response;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -10,7 +9,9 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class AddressResponseDto {
-    @JsonProperty("data")
-    AddressResponseDtoData addressData;
+public class AddressResponseDtoData {
+    private Long id;
+    private String zipCode;
+    private String city;
+    private String address;
 }
