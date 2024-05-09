@@ -1,0 +1,15 @@
+{
+    "data": {
+        "id": 2,
+        "email": "pickmeup@gmail.com",
+        "firstName": "John",
+        "lastName": "Doe",
+        "userAddress": {
+            "id": 1,
+            "zipCode": "322-223-322",
+            "city": "Copacabana",
+            "concreteAddress": "Yellow Str., 12b, app.19"
+        },
+        "birthDate": "29-11-1996"
+    }
+}

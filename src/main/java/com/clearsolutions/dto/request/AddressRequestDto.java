@@ -14,7 +14,6 @@ import org.hibernate.validator.constraints.Length;
 @NoArgsConstructor
 @AllArgsConstructor
 public class AddressRequestDto {
-    private Long id;
 
     @Pattern(regexp = "^[0-9-]*$",
             message = "ZIP/Postal code must contain only numbers and special characters -")

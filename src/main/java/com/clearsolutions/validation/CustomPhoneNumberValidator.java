@@ -8,8 +8,8 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-@Pattern(regexp="^\\+[0-9]{12}+$",
-        message="Phone number must starts with + and has exactly 12 digits before")
+@Pattern(regexp = "^\\+[0-9]{12}+$",
+        message = "Phone number must starts with + and has exactly 12 digits before")
 @Target({ElementType.FIELD})
 @Retention(RetentionPolicy.RUNTIME)
 @Constraint(validatedBy = {})

@@ -1,17 +1,12 @@
 package com.clearsolutions.exception;
 
 import java.util.Map;
+import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.RequiredArgsConstructor;
 
 @Data
-@RequiredArgsConstructor
+@AllArgsConstructor
 public class ExceptionBody {
-
-    private String message;
+    private int status;
     private Map<String, String> errors;
-    public ExceptionBody(final String message) {
-        this.message = message;
-    }
-
 }

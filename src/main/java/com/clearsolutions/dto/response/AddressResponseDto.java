@@ -12,5 +12,5 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class AddressResponseDto {
     @JsonProperty("data")
-    AddressResponseDtoData addressData;
+    private AddressResponseDtoData addressData;
 }

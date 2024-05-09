@@ -12,15 +12,15 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Address {
-//    @Id
-//    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    //    @Id
+    //    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-//    @Column(name = "zip_code")
+    //    @Column(name = "zip_code")
     private String zipCode;
-//    @NotNull
-//    @NotBlank
-//    @Column(name = "city")
+    //    @NotNull
+    //    @NotBlank
+    //    @Column(name = "city")
     private String city;
-//    @Column(name = "address")
+    //    @Column(name = "address")
     private String concreteAddress;
 }

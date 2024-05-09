@@ -16,25 +16,25 @@ public class User {
     //    @Id
     //    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-//    @NotNull
-//    @NotBlank
-//    @Column(name = "email", unique = true)
+    //    @NotNull
+    //    @NotBlank
+    //    @Column(name = "email", unique = true)
     private String email;
-//    @NotNull
-//    @NotBlank
-//    @Column(name = "first_name")
+    //    @NotNull
+    //    @NotBlank
+    //    @Column(name = "first_name")
     private String firstName;
-//    @NotNull
-//    @NotBlank
-//    @Column(name = "last_name")
+    //    @NotNull
+    //    @NotBlank
+    //    @Column(name = "last_name")
     private String lastName;
-//    @NotNull
-//    @NotBlank
-//    @Column(name = "birth_date")
+    //    @NotNull
+    //    @NotBlank
+    //    @Column(name = "birth_date")
     private LocalDate birthDate;
-//    @ManyToOne
-//    @JoinColumn(name = "address_id")
+    //    @ManyToOne
+    //    @JoinColumn(name = "address_id")
     private Address address;
-//    @Column(name = "phone_number")
+    //    @Column(name = "phone_number")
     private String phoneNumber;
 }
