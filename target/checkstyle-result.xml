@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/validation/CustomPhoneNumberValidator.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/validation/impl/BirthDateValidatorImpl.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/validation/CustomBirthDayValidator.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/validation/CustomEmailValidator.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/entity/User.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/entity/Address.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/mappers/MapperToModel.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/mappers/impl/AddressMapperImpl.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/mappers/impl/UserMapperImpl.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/mappers/MapperToDto.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/controller/AddressController.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/controller/UserController.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/ClearSolutionsApplication.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/util/AppConstants.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/dto/request/UserRequestDto.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/dto/request/UserDataRequestDto.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/dto/request/AddressRequestDto.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/dto/response/AddressResponseDto.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/dto/response/UserDataResponseDto.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/dto/response/UserResponseDto.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/dto/response/AddressResponseDtoData.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/configuration/TomcatConfiguration.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/exception/ExceptionBody.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/exception/BirthDateParseException.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/exception/exceptionhandling/MappingProcessException.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/exception/exceptionhandling/ApplicationExceptionHandling.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/exception/ResourceNotFoundException.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/exception/ValidationFailedException.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/service/UserService.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/java/com/clearsolutions/service/impl/UserServiceImpl.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/test/java/com/clearsolutions/controller/UserControllerTest.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/ClearSolutions/src/main/resources/application.properties">
+</file>
+</checkstyle>

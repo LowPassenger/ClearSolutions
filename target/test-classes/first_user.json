@@ -1,0 +1,15 @@
+{
+    "data": {
+        "id": 1,
+        "email": "lowpassenger93@gmail.com",
+        "firstName": "Low",
+        "lastName": "Passenger",
+        "userAddress": {
+            "id": 1,
+            "zipCode": "322-223-322",
+            "city": "Copacabana",
+            "concreteAddress": "Yellow Str., 12b, app.18"
+        },
+        "birthDate": "12-07-1993"
+    }
+}
